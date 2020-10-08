@@ -9,8 +9,7 @@ name: Labeler
 on: [pull_request]
 
 jobs:
-  label: /
-
+  label:
     runs-on: ubuntu-latest
 
     steps:
